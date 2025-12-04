@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Mozaika.CalculationModule/Mozaika.CalculationModule.csproj" />
+  <Project Path="Mozaika.DataAccess/Mozaika.DataAccess.csproj" />
+  <Project Path="Mozaika.Tests/Mozaika.Tests.csproj" />
+  <Project Path="Mozaika.WPF/Mozaika.WPF.csproj" /> 
+</Solution>

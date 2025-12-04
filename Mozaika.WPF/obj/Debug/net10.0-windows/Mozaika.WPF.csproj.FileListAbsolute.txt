@@ -1,0 +1,373 @@
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.Build.Locator.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.IO.Redist.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Newtonsoft.Json.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Buffers.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Collections.Immutable.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.CommandLine.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Memory.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Numerics.Vectors.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\cs\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\de\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\es\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\fr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\it\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\ja\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\ko\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\pl\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\ru\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\tr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.Build.Locator.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Newtonsoft.Json.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\System.Collections.Immutable.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\System.CommandLine.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\cs\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\de\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\es\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\fr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\it\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\ja\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\ko\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\pl\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\ru\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\tr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.exe
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.runtimeconfig.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.CalculationModule.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.DataAccess.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.CalculationModule.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.DataAccess.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.csproj.AssemblyReference.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\ProductWindow.baml
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\ProductWindow.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\App.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF_MarkupCompile.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF_MarkupCompile.lref
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\MainWindow.baml
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.g.resources
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.AssemblyInfoInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.AssemblyInfo.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.csproj.CoreCompileInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika..7FE8215E.Up2Date
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\refint\Mozaika.WPF.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.genruntimeconfig.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\ref\Mozaika.WPF.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.Build.Locator.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.IO.Redist.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Newtonsoft.Json.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Buffers.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Collections.Immutable.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.CommandLine.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Memory.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Numerics.Vectors.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\cs\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\de\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\es\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\fr\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\it\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\ja\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\ko\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\pl\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\ru\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\tr\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.Build.Locator.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Newtonsoft.Json.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\System.Collections.Immutable.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\System.CommandLine.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\cs\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\de\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\es\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\fr\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\it\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\ja\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\ko\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\pl\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\ru\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\tr\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.exe
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.deps.json
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.runtimeconfig.json
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.pdb
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.CalculationModule.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.DataAccess.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.CalculationModule.pdb
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.DataAccess.pdb
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.csproj.AssemblyReference.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\ProductWindow.baml
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\ProductWindow.g.cs
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\App.g.cs
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF_MarkupCompile.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF_MarkupCompile.lref
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\MainWindow.baml
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.g.resources
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.AssemblyInfoInputs.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.AssemblyInfo.cs
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.csproj.CoreCompileInputs.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika..7FE8215E.Up2Date
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\refint\Mozaika.WPF.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.pdb
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.genruntimeconfig.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\ref\Mozaika.WPF.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\LoginWindow.baml
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\LoginWindow.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.Build.Locator.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Microsoft.IO.Redist.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\Newtonsoft.Json.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Buffers.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Collections.Immutable.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.CommandLine.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Memory.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Numerics.Vectors.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\cs\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\de\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\es\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\fr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\it\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\ja\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\ko\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\pl\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\ru\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\tr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.Build.Locator.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\Newtonsoft.Json.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\System.Collections.Immutable.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\System.CommandLine.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\cs\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\de\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\es\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\fr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\it\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\ja\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\ko\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\pl\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\ru\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\tr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.exe
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.runtimeconfig.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.WPF.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.CalculationModule.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.DataAccess.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.CalculationModule.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\bin\Debug\net10.0-windows\Mozaika.DataAccess.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.csproj.AssemblyReference.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\LoginWindow.baml
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\ProductWindow.baml
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\LoginWindow.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\ProductWindow.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\App.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF_MarkupCompile.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF_MarkupCompile.lref
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\MainWindow.baml
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.g.resources
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.AssemblyInfoInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.AssemblyInfo.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.csproj.CoreCompileInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika..7FE8215E.Up2Date
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\refint\Mozaika.WPF.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\Mozaika.WPF.genruntimeconfig.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.WPF\obj\Debug\net10.0-windows\ref\Mozaika.WPF.dll

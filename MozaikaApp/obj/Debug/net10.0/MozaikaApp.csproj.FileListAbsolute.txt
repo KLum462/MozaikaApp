@@ -1,0 +1,5 @@
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\MozaikaApp\obj\Debug\net10.0\MozaikaApp.csproj.AssemblyReference.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\MozaikaApp\obj\Debug\net10.0\MozaikaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\MozaikaApp\obj\Debug\net10.0\MozaikaApp.AssemblyInfoInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\MozaikaApp\obj\Debug\net10.0\MozaikaApp.AssemblyInfo.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\MozaikaApp\obj\Debug\net10.0\MozaikaApp.csproj.CoreCompileInputs.cache

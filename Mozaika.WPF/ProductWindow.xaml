@@ -1,0 +1,80 @@
+﻿<Window x:Class="Mozaika.WPF.ProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование товара" Height="674" Width="823"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize"
+        FontFamily="Segoe UI" Background="#F3F4F6">
+
+    <Border Padding="20">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Данные о товаре" FontSize="20" FontWeight="Bold" Foreground="#333" Margin="0,0,0,20"/>
+
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" Padding="0,0,10,0">
+                <StackPanel>
+
+                    <Label Content="Название продукта:"/>
+                    <TextBox Text="{Binding ProductName}" Padding="5" Margin="0,0,0,10"/>
+
+                    <Label Content="Артикул:"/>
+                    <TextBox Text="{Binding ProductArticleNumber}" Padding="5" Margin="0,0,0,10"/>
+
+                    <Label Content="Категория:"/>
+                    <ComboBox Name="CategoryCombo" DisplayMemberPath="CategoryName" SelectedValuePath="CategoryId" 
+                              Padding="5" Margin="0,0,0,10"/>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="0,0,5,0">
+                            <Label Content="Стоимость:"/>
+                            <TextBox Text="{Binding MinCost}" Padding="5" Margin="0,0,0,10"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Margin="5,0,0,0">
+                            <Label Content="Ед. измерения:"/>
+                            <TextBox Text="{Binding ProductUnit}" Padding="5" Margin="0,0,0,10"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <Label Content="Производитель:"/>
+                    <TextBox Text="{Binding ProductManufacturer}" Padding="5" Margin="0,0,0,10"/>
+
+                    <Label Content="Описание:"/>
+                    <TextBox Text="{Binding ProductDescription}" Height="60" TextWrapping="Wrap" 
+                             AcceptsReturn="True" Padding="5" Margin="0,0,0,10" VerticalScrollBarVisibility="Auto"/>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="0,0,5,0">
+                            <Label Content="Остаток на складе:"/>
+                            <TextBox Text="{Binding ProductQuantityInStock}" Padding="5"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Margin="5,0,0,0">
+                            <Label Content="Время произв. (ч):"/>
+                            <TextBox Text="{Binding StandardProductionTime}" Padding="5"/>
+                        </StackPanel>
+                    </Grid>
+
+                </StackPanel>
+            </ScrollViewer>
+
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                <Button Name="DeleteBtn" Content="Удалить" Background="#DC3545" Foreground="White" 
+                        Padding="15,8" Margin="0,0,10,0" BorderThickness="0" Click="DeleteBtn_Click"/>
+
+                <Button Content="Сохранить" Background="#28A745" Foreground="White" FontWeight="Bold"
+                        Padding="25,8" BorderThickness="0" Click="SaveBtn_Click"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

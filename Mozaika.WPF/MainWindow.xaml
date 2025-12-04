@@ -1,0 +1,266 @@
+﻿<Window x:Class="Mozaika.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:Mozaika.WPF.ViewModels"
+        mc:Ignorable="d"
+        Title="Mozaika | Управление производством" Height="889" Width="1100"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Segoe UI" Background="#F3F4F6">
+
+    <Window.DataContext>
+        <vm:ProductsViewModel/>
+    </Window.DataContext>
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="PrimaryColor" Color="#007ACC"/>
+        <SolidColorBrush x:Key="SecondaryColor" Color="#6C757D"/>
+        <SolidColorBrush x:Key="SurfaceColor" Color="White"/>
+
+        <Style TargetType="ScrollBar">
+            <Setter Property="Background" Value="Transparent"/>
+        </Style>
+
+        <Style x:Key="ProductItemStyle" TargetType="ListBoxItem">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ListBoxItem">
+                        <Border x:Name="Border" 
+                                Padding="15,10" 
+                                Margin="0,0,0,8" 
+                                Background="{StaticResource SurfaceColor}"
+                                CornerRadius="8"
+                                BorderThickness="1"
+                                BorderBrush="Transparent"
+                                Cursor="Hand">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Border Grid.Column="0" Width="40" Height="40" CornerRadius="20" Background="#E9ECEF" Margin="0,0,15,0">
+                                    <TextBlock Text="📦" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
+                                </Border>
+
+                                <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                                    <TextBlock Text="{Binding ProductName}" FontWeight="SemiBold" FontSize="15" Foreground="#343A40"/>
+                                    <TextBlock Text="{Binding Category.CategoryName}" FontSize="12" Foreground="{StaticResource SecondaryColor}"/>
+                                </StackPanel>
+
+                                <TextBlock Grid.Column="2" Text="{Binding MinCost, StringFormat='{}{0:C0}'}" 
+                                           VerticalAlignment="Center" FontWeight="Bold" Foreground="{StaticResource PrimaryColor}"/>
+                            </Grid>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="Border" Property="Background" Value="#EDF2F7"/>
+                            </Trigger>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter TargetName="Border" Property="BorderBrush" Value="{StaticResource PrimaryColor}"/>
+                                <Setter TargetName="Border" Property="Background" Value="#EBF8FF"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="{StaticResource SurfaceColor}" Padding="20,15">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="10" ShadowDepth="2" Direction="270" Color="#DDDDDD" Opacity="0.5"/>
+            </Border.Effect>
+            <Grid>
+                <StackPanel Orientation="Horizontal">
+                    <Border Background="{StaticResource PrimaryColor}" CornerRadius="6" Width="30" Height="30" Margin="0,0,10,0">
+                        <Image Source="Gemini_Generated_Image_8lp64b8lp64b8lp6.jfif" Stretch="UniformToFill" Margin="-20,-14,-9,-15" RenderTransformOrigin="0.256,0.422"/>
+                    </Border>
+                    <TextBlock Text="MOZAIKA WORKSPACE" VerticalAlignment="Center" FontWeight="Bold" FontSize="16" Foreground="#333"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+                    <Button Content="+ Добавить товар" 
+                    Background="{StaticResource PrimaryColor}" Foreground="White"
+                    Padding="15,6" Margin="0,0,20,0" BorderThickness="0" FontWeight="SemiBold"
+                    Click="AddProductButton_Click"/>
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock x:Name="UserNameTextBlock" Text="Гость" FontWeight="Bold" HorizontalAlignment="Right" Foreground="#333"/>
+
+                        <TextBlock x:Name="UserRoleTextBlock" Text="Должность" FontSize="12" Foreground="Gray" HorizontalAlignment="Right"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <Grid Grid.Row="1" Margin="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.2*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <DockPanel Grid.Column="0" Margin="0,0,20,0">
+                <TextBlock Text="Список продукции" DockPanel.Dock="Top" FontSize="18" FontWeight="Bold" Margin="0,0,0,15" Foreground="#333"/>
+
+                <Border DockPanel.Dock="Top" Background="White" CornerRadius="20" Padding="5" Margin="0,0,0,15" BorderThickness="1" BorderBrush="#DDD">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="🔍" VerticalAlignment="Center" Margin="10,0,5,0" Foreground="Gray"/>
+                        <TextBox Grid.Column="1" 
+                                 Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}"
+                                 BorderThickness="0" 
+                                 VerticalContentAlignment="Center"
+                                 Padding="5"
+                                 FontSize="14"
+                                 Background="Transparent"/>
+                        <TextBlock Grid.Column="1" Text="Введите название..." 
+                                   IsHitTestVisible="False" 
+                                   VerticalAlignment="Center" Margin="7,0,0,0" Foreground="LightGray" FontStyle="Italic">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding SearchText}" Value="">
+                                            <Setter Property="Visibility" Value="Visible"/>
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding SearchText}" Value="{x:Null}">
+                                            <Setter Property="Visibility" Value="Visible"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                    </Grid>
+                </Border>
+
+                <ListBox ItemsSource="{Binding Products}" 
+                         SelectedItem="{Binding SelectedProduct}"
+                         ItemContainerStyle="{StaticResource ProductItemStyle}"
+                         Background="Transparent"
+                         BorderThickness="0"
+                         ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                         MouseDoubleClick="ListBox_MouseDoubleClick"/>
+            </DockPanel>
+
+            <Border Grid.Column="1" Background="{StaticResource SurfaceColor}" CornerRadius="12" Padding="30">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="15" ShadowDepth="5" Color="#CCCCCC" Opacity="0.4"/>
+                </Border.Effect>
+
+                <Grid>
+                    <Grid Visibility="{Binding SelectedProduct, Converter={x:Static vm:NullVisibilityConverter.Instance}, FallbackValue=Visible}">
+                        <TextBlock Text="Выберите продукт из списка,&#x0a;чтобы увидеть детали." 
+                                   HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center" Foreground="Gray" FontSize="16"/>
+                    </Grid>
+
+                    <StackPanel DataContext="{Binding SelectedProduct}">
+                        <StackPanel.Style>
+                            <Style TargetType="StackPanel">
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding}" Value="{x:Null}">
+                                        <Setter Property="Visibility" Value="Collapsed"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </StackPanel.Style>
+
+                        <Grid Margin="0,0,0,25">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <StackPanel>
+                                <TextBlock Text="ПРОДУКТ" FontSize="12" FontWeight="Bold" Foreground="{StaticResource PrimaryColor}"/>
+                                <TextBlock Text="{Binding ProductName}" FontSize="28" FontWeight="Bold" TextWrapping="Wrap" Margin="0,5,0,0"/>
+                                <Border Background="#E9ECEF" HorizontalAlignment="Left" CornerRadius="4" Padding="8,4" Margin="0,10,0,0">
+                                    <TextBlock Text="{Binding Category.CategoryName}" Foreground="#495057" FontSize="12"/>
+                                </Border>
+                            </StackPanel>
+                            <Border Grid.Column="1" Width="80" Height="80" CornerRadius="10" Background="#F1F3F5" BorderBrush="#DEE2E6" BorderThickness="1">
+                                <TextBlock Text="IMG" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#ADB5BD" FontWeight="Bold"/>
+                            </Border>
+                        </Grid>
+
+                        <Separator Background="#F1F1F1" Margin="0,0,0,25"/>
+
+                        <TextBlock Text="Экономика и Расчеты" FontSize="16" FontWeight="SemiBold" Margin="0,0,0,15"/>
+
+                        <Grid Margin="0,0,0,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Grid.Column="0">
+                                <TextBlock Text="Артикул:" Foreground="Gray"/>
+                                <TextBlock Text="{Binding ProductArticleNumber, TargetNullValue='---'}" Margin="0,0,0,15" FontSize="14"/>
+
+                                <TextBlock Text="Мин. цена агента:" Foreground="Gray"/>
+                                <TextBlock Text="{Binding MinCost, StringFormat='{}{0:C}'}" FontSize="16" FontWeight="SemiBold"/>
+                            </StackPanel>
+
+                            <Border Grid.Column="1" Background="#F0FFF4" BorderBrush="#C6F6D5" BorderThickness="1" CornerRadius="8" Padding="15">
+                                <StackPanel>
+                                    <TextBlock Text="📌 Себестоимость материалов" FontSize="12" Foreground="#2F855A" FontWeight="Bold" TextWrapping="Wrap"/>
+                                    <TextBlock Text="(Расчет внешнего модуля)" FontSize="10" Foreground="#2F855A" Opacity="0.8" Margin="0,0,0,5"/>
+                                    <TextBlock Text="{Binding DataContext.CalculatedCost, RelativeSource={RelativeSource AncestorType=Window}, StringFormat='{}{0:C}'}" 
+                                               FontSize="24" FontWeight="Bold" Foreground="#22543D" Margin="0,5,0,0"/>
+                                </StackPanel>
+                            </Border>
+                        </Grid>
+
+                        <StackPanel Margin="0,20,0,0">
+                            <TextBlock Text="Характеристики:" FontSize="14" FontWeight="SemiBold" Foreground="#6C757D" Margin="0,0,0,10"/>
+
+                            <Border Background="#F8F9FA" BorderBrush="#E9ECEF" BorderThickness="1" CornerRadius="8" Padding="15">
+                                <StackPanel>
+
+                                    <Grid Margin="0,0,0,8">
+                                        <TextBlock Text="Производитель:" Foreground="Gray"/>
+                                        <TextBlock Text="{Binding ProductManufacturer, TargetNullValue='Не указан'}" 
+                                                   HorizontalAlignment="Right" FontWeight="Medium" Foreground="#343A40"/>
+                                    </Grid>
+
+                                    <Separator Background="#E9ECEF" Margin="0,0,0,8"/>
+
+                                    <Grid Margin="0,0,0,8">
+                                        <TextBlock Text="Ед. измерения:" Foreground="Gray"/>
+                                        <TextBlock Text="{Binding ProductUnit, TargetNullValue='шт.'}" 
+                                                   HorizontalAlignment="Right" FontWeight="Medium" Foreground="#343A40"/>
+                                    </Grid>
+
+                                    <Separator Background="#E9ECEF" Margin="0,0,0,8"/>
+
+                                    <Grid>
+                                        <TextBlock Text="Остаток на складе:" Foreground="Gray"/>
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                            <TextBlock Text="{Binding ProductQuantityInStock}" FontWeight="Bold" Foreground="#343A40"/>
+                                            <TextBlock Text="{Binding ProductUnit}" Foreground="#343A40" Margin="3,0,0,0"/>
+                                        </StackPanel>
+                                    </Grid>
+
+                                </StackPanel>
+                            </Border>
+                        </StackPanel>
+
+                        <TextBlock Text="Описание:" Foreground="Gray" Margin="0,15,0,5"/>
+                        <TextBlock Text="{Binding ProductDescription, TargetNullValue='Описание отсутствует'}" 
+                                   TextWrapping="Wrap" LineHeight="20" Foreground="#4A4A4A"/>
+
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,180 @@
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.Build.Locator.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.IO.Redist.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Newtonsoft.Json.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Buffers.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Collections.Immutable.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.CommandLine.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Memory.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Numerics.Vectors.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\cs\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\de\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\es\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\fr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\it\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\ja\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\ko\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\pl\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\ru\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\tr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.Build.Locator.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Newtonsoft.Json.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\System.Collections.Immutable.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\System.CommandLine.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\cs\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\de\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\es\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\fr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\it\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\ja\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\ko\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\pl\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\ru\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\tr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.runtimeconfig.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.csproj.AssemblyReference.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.AssemblyInfoInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.AssemblyInfo.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.csproj.CoreCompileInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\refint\Mozaika.DataAccess.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.genruntimeconfig.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\ref\Mozaika.DataAccess.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.Build.Locator.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.IO.Redist.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Newtonsoft.Json.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Buffers.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Collections.Immutable.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.CommandLine.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Memory.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Numerics.Vectors.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\cs\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\de\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\es\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\fr\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\it\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\ja\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\ko\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\pl\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\ru\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\tr\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.Build.Locator.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Newtonsoft.Json.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\System.Collections.Immutable.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\System.CommandLine.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\cs\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\de\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\es\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\fr\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\it\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\ja\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\ko\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\pl\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\ru\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\tr\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.deps.json
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.runtimeconfig.json
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.pdb
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.csproj.AssemblyReference.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.AssemblyInfoInputs.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.AssemblyInfo.cs
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.csproj.CoreCompileInputs.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\refint\Mozaika.DataAccess.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.pdb
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.genruntimeconfig.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\ref\Mozaika.DataAccess.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.Build.Locator.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Microsoft.IO.Redist.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\Newtonsoft.Json.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Buffers.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Collections.Immutable.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.CommandLine.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Memory.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Numerics.Vectors.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\cs\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\de\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\es\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\fr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\it\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\ja\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\ko\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\pl\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\ru\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\tr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.Build.Locator.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\Newtonsoft.Json.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\System.Collections.Immutable.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\System.CommandLine.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\cs\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\de\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\es\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\fr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\it\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\ja\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\ko\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\pl\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\ru\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\tr\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.runtimeconfig.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\bin\Debug\net10.0\Mozaika.DataAccess.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.csproj.AssemblyReference.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.AssemblyInfoInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.AssemblyInfo.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.csproj.CoreCompileInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\refint\Mozaika.DataAccess.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\Mozaika.DataAccess.genruntimeconfig.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.DataAccess\obj\Debug\net10.0\ref\Mozaika.DataAccess.dll

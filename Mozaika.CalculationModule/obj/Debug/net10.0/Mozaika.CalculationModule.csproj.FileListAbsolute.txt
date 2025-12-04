@@ -1,0 +1,33 @@
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\bin\Debug\net10.0\Mozaika.CalculationModule.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\bin\Debug\net10.0\Mozaika.CalculationModule.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\bin\Debug\net10.0\Mozaika.CalculationModule.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.AssemblyInfoInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.AssemblyInfo.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.csproj.CoreCompileInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\refint\Mozaika.CalculationModule.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\ref\Mozaika.CalculationModule.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\bin\Debug\net10.0\Mozaika.CalculationModule.deps.json
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\bin\Debug\net10.0\Mozaika.CalculationModule.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\bin\Debug\net10.0\Mozaika.CalculationModule.pdb
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.AssemblyInfoInputs.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.AssemblyInfo.cs
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.csproj.CoreCompileInputs.cache
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\refint\Mozaika.CalculationModule.dll
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.pdb
+C:\КОЛЛЕДЖ\УП\Работы\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\ref\Mozaika.CalculationModule.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\bin\Debug\net10.0\Mozaika.CalculationModule.deps.json
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\bin\Debug\net10.0\Mozaika.CalculationModule.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\bin\Debug\net10.0\Mozaika.CalculationModule.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.AssemblyInfoInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.AssemblyInfo.cs
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.csproj.CoreCompileInputs.cache
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\refint\Mozaika.CalculationModule.dll
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\Mozaika.CalculationModule.pdb
+D:\КОЛЛЕДЖ\4 Курс\1 Семестр\УП\Задание4\Задание4\Задание4\MozaikaApp\MozaikaApp\Mozaika.CalculationModule\obj\Debug\net10.0\ref\Mozaika.CalculationModule.dll
